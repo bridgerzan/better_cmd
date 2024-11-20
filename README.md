@@ -31,9 +31,7 @@ bridgezanyt1
 
 ## Screenshots
 main page
-![App Screenshot](https://linklick.ir/dl/hash/0Kbb6BFNcjyMVhf1)
-apps
-![App Screenshot2](https://linklick.ir/dl/hash/HIz9Wm9XvizdNdLh)
+![App Screenshot](https://s8.uupload.ir/files/main_h9i2.png)
 
 
 
